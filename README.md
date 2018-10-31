@@ -1,0 +1,6 @@
+# captcha
+人工智能实验——深度学习基于TensorFlow的CAPTCHA注册码识别实验
+此项目文件captcha_recognize中 
+gen_captcha为生成验证码部分
+train_captcha为训练加测试部分 此代码中为节省实验时间，目标准确度设置为0.7 训练数据集合仅限4位数字
+
