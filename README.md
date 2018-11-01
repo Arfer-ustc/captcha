@@ -1,3 +1,4 @@
+captchaCnn为改良过后的验证码识别代码，推荐，此处无介绍
 # captcha
 人工智能实验——深度学习基于TensorFlow的CAPTCHA注册码识别实验
 此项目文件captcha_recognize中 
